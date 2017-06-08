@@ -1,0 +1,27 @@
+{
+  "name": "save-notes-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardwit/save-notes-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hardwit/save-notes-bot/issues"
+  },
+  "homepage": "https://github.com/hardwit/save-notes-bot#readme",
+  "dependencies": {
+    "mongodb": "^2.2.28",
+    "node-telegram-bot-api": "^0.27.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
