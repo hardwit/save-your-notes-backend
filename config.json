@@ -1,0 +1,6 @@
+{
+  "mongoose": {
+    "uri": "HERE YOUR CONNECTION STRING URI"
+  },
+  "bot_token": "HERE YOUR BOT TOKEN"
+}
