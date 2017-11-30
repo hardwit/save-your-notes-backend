@@ -64,7 +64,7 @@
     "no-unreachable": 2,
     "use-isnan": 2,
     "block-scoped-var": 0,
-    "consistent-return": 2,
+    "consistent-return": 0,
     "curly": [
       2,
       "multi-line"
