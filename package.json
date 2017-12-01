@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon -r babel-register -r babel-polyfill app.js"
+    "start": "nodemon -r babel-register -r babel-polyfill app.js",
+    "server": "nodemon -r babel-register -r babel-polyfill lib/server/index.js"
   },
   "repository": {
     "type": "git",

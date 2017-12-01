@@ -1,1 +1,2 @@
-import './lib/bot';
+import './lib/bot'
+import './lib/server'
